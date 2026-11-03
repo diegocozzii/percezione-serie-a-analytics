@@ -2,9 +2,9 @@
 ### Progetto di gruppo per l'esame di Principi e Modelli della Percezione
 
 **Gruppo di lavoro:**
-* Diego (51299A)
-* Mario (50644A)
-* Matteo (51073A)
+* Diego Cozzi (51299A)
+* Mario Rovagnati (50644A)
+* Matteo Dini (51073A)
 
 ---
 
