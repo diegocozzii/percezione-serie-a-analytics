@@ -20,7 +20,7 @@ Analisi quantitativa e visiva dell'evoluzione della Serie A negli ultimi 30 anni
   - `dati_gol_reali_10_squadre.csv`, `dati_scostamento_gol_xg.csv`
 - `notebooks/`: 
   - `analisi_serie_a_completo.ipynb` (pipeline riproducibile di estrazione, pulizia e generazione asset)
-- `plots/`: Grafici esportati ad alta risoluzione (250 DPI) in duplice versione (*con guida metodologica* e versione *clean* muta per l'impaginazione nelle slide):
+- `plots/`: Grafici esportati ad alta risoluzione in duplice versione (*con guida metodologica* e versione *clean*):
   - `g1_gol` (trend storico e picco 2020/21)
   - `g2_fattore_campo` (chiusura della forbice casa/trasferta)
   - `g_slide7_tiri` (volume tiri totali vs nello specchio dal 2005)
